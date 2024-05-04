@@ -1,0 +1,5 @@
+![screenshot1]("C:\Users\lenovo\Desktop\Data Analytics\E- Commerce Analysis Project Folder\Screenshots\img1.png")
+![screenshot2]("C:\Users\lenovo\Desktop\Data Analytics\E- Commerce Analysis Project Folder\Screenshots\img2.png")
+![screenshot3]("C:\Users\lenovo\Desktop\Data Analytics\E- Commerce Analysis Project Folder\Screenshots\img3.png")
+![screenshot4]("C:\Users\lenovo\Desktop\Data Analytics\E- Commerce Analysis Project Folder\Screenshots\img4.png")
+![screenshot5]("C:\Users\lenovo\Desktop\Data Analytics\E- Commerce Analysis Project Folder\Screenshots\img5.png")
