@@ -127,7 +127,7 @@ fig=px.line(newCsv,x="month_year",y="Sales")
 st.plotly_chart(fig,use_container_width=True,hieght=500)
 
  ## Treemap b/w region ,category , sub-category   
-fig = px.treemap(filtered_df ,path=['Region',"Category","Sub-Category"],values="Sales",color="Sub-Category")
+fig = px.treemap(filtered_df ,path=['Region',"Category","Sub-Category"],values="Sales",title="Treemap b/w Region, Category, Sub-Category",color="Sub-Category")
 st.plotly_chart(fig,use_container_width=True)
 
 ### scatter plot b/w sales and profit
